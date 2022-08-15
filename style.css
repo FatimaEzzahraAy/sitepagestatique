@@ -1,0 +1,48 @@
+body{
+      color: rgb(56, 56, 199);
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+      font-style: oblique;
+      font-weight: 500;
+}     
+header{
+      background-color: rgb(178, 222, 252);
+      background-image: url(coronavirus-article-s.jpg);
+      font-size: medium;
+      font-family: 'Times New Roman', Times, serif;
+      text-align:left;
+      padding: 5px;
+      display: grid;
+      grid-template-columns: auto auto
+}
+img{
+      width: 20%;
+}
+article{
+      background-color: rgb(236, 240, 36);
+      text-align: center;
+      padding: 5px;
+}
+p{
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: medium;
+      text-align: center;
+}
+section{
+      display: grid;
+      grid-template-columns: auto auto auto;
+      text-align: center;
+}
+h4{
+      color: black;
+}
+nav{
+      text-align: right;
+}
+li{
+      
+      color: black;
+      font-size: larger;
+      display: inline-block;
+      list-style-type: none;
+      padding: 10px;
+}
